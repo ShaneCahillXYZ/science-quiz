@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: lightblue;
+	font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+	background-color:#67CB7B;
+	width:300px;
+	margin:auto;
+	border: 1px #000000;
+}
+
+h5 {
+	font-size:28px;
+	background-color:#E75F61;
+	width:540px;
+	
+	margin:auto;
+	border: 1px #000000;
+}
+
+h6 {
+	font-size:28px;
+	background-color:#E75F61;
+	width:470px;
+	
+	margin:auto;
+	border: 1px #000000;
+}
+
+table {
+	margin:auto
+}
+	
+	
+	
+
+	
